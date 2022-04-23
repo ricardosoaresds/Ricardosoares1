@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ricardo Soares. 
 
-Estudando HTML, CSS e JAVASCRIPT! 
+Estudando HTML, CSS, JAVASCRIPT E PHYTON! 
 
 <div align="center">
   <a href="https://github.com/ricardosoaresds">
